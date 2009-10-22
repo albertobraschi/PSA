@@ -1,0 +1,6 @@
+pt-BR:
+  ext:
+    correios_bounded_store:
+      extension_name: Correios
+      extension_description: Suporte ao serviço online dos correios para cálculo de frete.
+

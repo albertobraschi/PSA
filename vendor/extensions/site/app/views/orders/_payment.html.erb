@@ -1,0 +1,15 @@
+<h2><%= t("payment_information") %></h2>
+<div class="inner">
+	<p>
+		Escolha a forma de pagamento:
+	</p>
+	<p>
+	<% for payment in PaymentType.find_all_by_status(true) %>
+		<%= radio_button_tag 'order[payment_type_id]', "#{payment.id}" %> <%= payment.nome %> <br />
+	<% end %>
+	</p>
+	<div class="form-buttons">
+		<input id="continue_payment" type="button" class="button primary" value="<%=t("continue")%>"/>
+	</div>
+</div>
+

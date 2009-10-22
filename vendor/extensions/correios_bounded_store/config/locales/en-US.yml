@@ -1,0 +1,6 @@
+en-US:
+  ext:
+    correios_bounded_store:
+      extension_name: Correios
+      extension_description: Support for brazilian postal service online shiping price calculation.
+

@@ -1,0 +1,12 @@
+
+pt-BR:
+  new_payment_type: "Adicionar forma de pagamento"
+  nome: "Nome"
+  update_payment_type: "Atualizar forma de pagamento"
+  payment_types:
+    name: Formas de pagamento
+    description: Formas de pagamento disponíveis.
+  pagseguro:
+    name: Infos Pagseguro
+    description: Configurações do Pagseguro.
+

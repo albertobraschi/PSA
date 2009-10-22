@@ -1,0 +1,11 @@
+<h1><%= t("update_payment_type") %></h1>
+
+<%= error_messages_for :payment_type %>
+
+<% form_for(:payment_type, :url => object_url, :html => { :method => :put }) do |f| %>
+  <%= render :partial => "form", :locals => { :f => f } %>
+  <p>
+    <%= submit_tag t("update") %>
+  </p>
+<% end %>
+

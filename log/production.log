@@ -1,0 +1,1023 @@
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing ProductsController#index (for 189.32.63.139 at 2009-10-21 19:16:43) [GET]
+  Parameters: {"action"=>"index", "controller"=>"products"}
+Rendering template within layouts/application
+Rendering products/index
+[paperclip] Paperclip attachment attachment on Image initialized.
+Completed in 1839ms (View: 893, DB: 14) | 200 OK [http://psa.octagonoecommerce.com.br/]
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing ProductsController#show (for 189.32.63.139 at 2009-10-21 19:17:00) [GET]
+  Parameters: {"action"=>"show", "id"=>"apache-baseball-jersey", "controller"=>"products"}
+Rendering template within layouts/application
+Rendering products/show
+[paperclip] Paperclip attachment attachment on Image initialized.
+Completed in 642ms (View: 329, DB: 28) | 200 OK [http://psa.octagonoecommerce.com.br/products/apache-baseball-jersey]
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing ProductsController#show (for 189.32.63.139 at 2009-10-21 19:17:00) [GET]
+  Parameters: {"action"=>"show", "id"=>"apache-baseball-jersey", "controller"=>"products"}
+Rendering template within layouts/application
+Rendering products/show
+[paperclip] Paperclip attachment attachment on Image initialized.
+Completed in 622ms (View: 320, DB: 21) | 200 OK [http://psa.octagonoecommerce.com.br/products/apache-baseball-jersey]
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing ProductsController#show (for 189.32.63.139 at 2009-10-21 19:17:27) [GET]
+  Parameters: {"action"=>"show", "id"=>"apache-baseball-jersey", "controller"=>"products"}
+Rendering template within layouts/application
+Rendering products/show
+[paperclip] Paperclip attachment attachment on Image initialized.
+Completed in 367ms (View: 307, DB: 15) | 200 OK [http://psa.octagonoecommerce.com.br/products/apache-baseball-jersey]
+
+
+Processing OrdersController#create (for 189.32.63.139 at 2009-10-21 19:17:38) [POST]
+  Parameters: {"action"=>"create", "authenticity_token"=>"brByl95/X+OuvJy6i/Z229HBP4MogiBLrsNTyyQgym0=", "quantity"=>"1", "products"=>{"109241137"=>"980615690"}, "controller"=>"orders"}
+Redirected to http://psa.octagonoecommerce.com.br/orders/R225170821/edit
+Completed in 621ms (DB: 23) | 302 Found [http://psa.octagonoecommerce.com.br/orders]
+
+
+Processing OrdersController#edit (for 189.32.63.139 at 2009-10-21 19:17:39) [GET]
+  Parameters: {"action"=>"edit", "id"=>"R225170821", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/edit
+[paperclip] Paperclip attachment attachment on Image initialized.
+Completed in 63ms (View: 45, DB: 9) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R225170821/edit]
+
+
+Processing OrdersController#checkout (for 189.32.63.139 at 2009-10-21 19:17:46) [GET]
+  Parameters: {"action"=>"checkout", "id"=>"R225170821", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/checkout
+
+ActionView::TemplateError (undefined method `abbr' for nil:NilClass) on line #7 of vendor/extensions/site/app/views/shared/_order_details.html.erb:
+4:         <%= form_para_compra(@order) %>
+5:       <% else %>
+6:         Se você optou por pagar através de Boleto Bancário, por favor clique no botão abaixo para baixar o seu boleto.<br /><br />
+7:       	<%= link_to image_tag("icons/ico_boleto.gif",:alt=>"Boleto Bancário"), { :controller => "boleto", :action => @order.payment_type.abbr, :boletoNumero => @order.number, :valorBoleto => @order.total} %>
+8:       <% end %>
+9:   	</p>
+10:   <br />
+
+    vendor/extensions/site/app/views/shared/_order_details.html.erb:7
+    /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/haml/helpers/action_view_mods.rb:13:in `render'
+    spree (0.8.1) app/views/orders/_confirmation.html.erb:7
+    /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/haml/helpers/action_view_mods.rb:13:in `render'
+    spree (0.8.1) app/views/orders/_checkout_form.html.erb:12
+    spree (0.8.1) app/views/orders/_checkout_form.html.erb:10:in `each'
+    spree (0.8.1) app/views/orders/_checkout_form.html.erb:10
+    /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/haml/helpers/action_view_mods.rb:13:in `render'
+    spree (0.8.1) app/views/orders/checkout.html.erb:7
+    searchlogic (1.6.6) lib/searchlogic/helpers/form.rb:150:in `fields_for'
+    /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/haml/helpers/action_view_mods.rb:169:in `form_for_without_searchlogic'
+    searchlogic (1.6.6) lib/searchlogic/helpers/form.rb:160:in `form_for'
+    spree (0.8.1) app/views/orders/checkout.html.erb:6
+    /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/haml/helpers/action_view_mods.rb:13:in `render'
+    /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/haml/helpers/action_view_mods.rb:13:in `render'
+    /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+
+
+Processing OrdersController#checkout (for 189.32.63.139 at 2009-10-21 19:17:51) [GET]
+  Parameters: {"action"=>"checkout", "id"=>"R225170821", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/checkout
+
+ActionView::TemplateError (undefined method `abbr' for nil:NilClass) on line #7 of vendor/extensions/site/app/views/shared/_order_details.html.erb:
+4:         <%= form_para_compra(@order) %>
+5:       <% else %>
+6:         Se você optou por pagar através de Boleto Bancário, por favor clique no botão abaixo para baixar o seu boleto.<br /><br />
+7:       	<%= link_to image_tag("icons/ico_boleto.gif",:alt=>"Boleto Bancário"), { :controller => "boleto", :action => @order.payment_type.abbr, :boletoNumero => @order.number, :valorBoleto => @order.total} %>
+8:       <% end %>
+9:   	</p>
+10:   <br />
+
+    vendor/extensions/site/app/views/shared/_order_details.html.erb:7
+    /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/haml/helpers/action_view_mods.rb:13:in `render'
+    spree (0.8.1) app/views/orders/_confirmation.html.erb:7
+    /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/haml/helpers/action_view_mods.rb:13:in `render'
+    spree (0.8.1) app/views/orders/_checkout_form.html.erb:12
+    spree (0.8.1) app/views/orders/_checkout_form.html.erb:10:in `each'
+    spree (0.8.1) app/views/orders/_checkout_form.html.erb:10
+    /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/haml/helpers/action_view_mods.rb:13:in `render'
+    spree (0.8.1) app/views/orders/checkout.html.erb:7
+    searchlogic (1.6.6) lib/searchlogic/helpers/form.rb:150:in `fields_for'
+    /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/haml/helpers/action_view_mods.rb:169:in `form_for_without_searchlogic'
+    searchlogic (1.6.6) lib/searchlogic/helpers/form.rb:160:in `form_for'
+    spree (0.8.1) app/views/orders/checkout.html.erb:6
+    /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/haml/helpers/action_view_mods.rb:13:in `render'
+    /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/haml/helpers/action_view_mods.rb:13:in `render'
+    /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing OrdersController#checkout (for 189.32.63.139 at 2009-10-21 19:19:40) [GET]
+  Parameters: {"action"=>"checkout", "id"=>"R225170821", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/checkout
+Completed in 973ms (View: 334, DB: 20) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R225170821/checkout]
+
+
+Processing StatesController#index to js (for 189.32.63.139 at 2009-10-21 19:19:43) [GET]
+  Parameters: {"format"=>"js", "action"=>"index", "controller"=>"states"}
+Rendering states/index
+Completed in 185ms (View: 4, DB: 72) | 200 OK [http://psa.octagonoecommerce.com.br/states.js]
+
+
+Processing UserSessionsController#create (for 189.32.63.139 at 2009-10-21 19:19:51) [POST]
+  Parameters: {"user"=>{"password_confirmation"=>"[FILTERED]", "password"=>"[FILTERED]", "email"=>""}, "choose_registration"=>"existing", "user_session"=>{"password"=>"[FILTERED]", "login"=>"spree@example.com"}, "order"=>{"bill_address_attributes"=>{"address1"=>"", "city"=>"", "address2"=>"", "zipcode"=>"", "country_id"=>"28", "firstname"=>"", "lastname"=>"", "phone"=>"", "state_id"=>""}, "ship_address_attributes"=>{"address1"=>"", "city"=>"", "address2"=>"", "zipcode"=>"", "country_id"=>"28", "firstname"=>"", "lastname"=>"", "phone"=>"", "state_id"=>""}, "email"=>""}, "action"=>"create", "authenticity_token"=>"brByl95/X+OuvJy6i/Z229HBP4MogiBLrsNTyyQgym0=", "controller"=>"user_sessions", "final_answer"=>""}
+Completed in 387ms (View: 1, DB: 4) | 200 OK [http://psa.octagonoecommerce.com.br/user_session]
+
+
+Processing UserSessionsController#login_bar (for 189.32.63.139 at 2009-10-21 19:19:51) [GET]
+  Parameters: {"action"=>"login_bar", "controller"=>"user_sessions"}
+Completed in 17ms (View: 9, DB: 2) | 200 OK [http://psa.octagonoecommerce.com.br/user_session/login_bar]
+
+
+Processing OrdersController#checkout (for 189.32.63.139 at 2009-10-21 19:20:07) [POST]
+  Parameters: {"user"=>{"password_confirmation"=>"[FILTERED]", "password"=>"[FILTERED]", "email"=>""}, "choose_registration"=>"existing", "user_session"=>{"password"=>"[FILTERED]", "login"=>"spree@example.com"}, "order"=>{"bill_address_attributes"=>{"address1"=>"paraiba", "city"=>"curitiba", "address2"=>"", "zipcode"=>"80630000", "country_id"=>"28", "firstname"=>"Alberto", "lastname"=>"Braschi", "phone"=>"41 847841024", "state_id"=>"1061493600"}, "ship_address_attributes"=>{"address1"=>"paraiba", "city"=>"curitiba", "address2"=>"", "zipcode"=>"80630000", "country_id"=>"28", "firstname"=>"Alberto", "lastname"=>"Braschi", "phone"=>"41 847841024", "state_id"=>"1061493600"}, "email"=>""}, "action"=>"checkout", "authenticity_token"=>"brByl95/X+OuvJy6i/Z229HBP4MogiBLrsNTyyQgym0=", "id"=>"R225170821", "controller"=>"orders", "final_answer"=>"", "checkout_same_address"=>"on"}
+Completed in 410ms (View: 0, DB: 23) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R225170821/checkout]
+
+
+Processing OrdersController#checkout (for 189.32.63.139 at 2009-10-21 19:20:17) [POST]
+  Parameters: {"user"=>{"password_confirmation"=>"[FILTERED]", "password"=>"[FILTERED]", "email"=>""}, "choose_registration"=>"existing", "user_session"=>{"password"=>"[FILTERED]", "login"=>"spree@example.com"}, "order"=>{"payment_type_id"=>"5", "bill_address_attributes"=>{"address1"=>"paraiba", "city"=>"curitiba", "address2"=>"", "zipcode"=>"80630000", "country_id"=>"28", "firstname"=>"Alberto", "lastname"=>"Braschi", "phone"=>"41 847841024", "state_id"=>"1061493600"}, "ship_address_attributes"=>{"address1"=>"paraiba", "city"=>"curitiba", "address2"=>"", "zipcode"=>"80630000", "country_id"=>"28", "firstname"=>"Alberto", "lastname"=>"Braschi", "phone"=>"41 847841024", "state_id"=>"1061493600"}, "email"=>""}, "action"=>"checkout", "authenticity_token"=>"brByl95/X+OuvJy6i/Z229HBP4MogiBLrsNTyyQgym0=", "id"=>"R225170821", "controller"=>"orders", "final_answer"=>"yes", "checkout_same_address"=>"on"}
+Sent mail to spree@example.com
+Redirected to http://psa.octagonoecommerce.com.br/orders/R225170821?checkout_complete=true
+Completed in 480ms (DB: 31) | 302 Found [http://psa.octagonoecommerce.com.br/orders/R225170821/checkout]
+
+
+Processing OrdersController#show (for 189.32.63.139 at 2009-10-21 19:20:17) [GET]
+  Parameters: {"checkout_complete"=>"true", "action"=>"show", "id"=>"R225170821", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/show
+Completed in 50ms (View: 29, DB: 7) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R225170821?checkout_complete=true]
+
+
+Processing UsersController#show (for 189.32.63.139 at 2009-10-21 19:22:42) [GET]
+  Parameters: {"action"=>"show", "id"=>"1", "controller"=>"users"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 35ms (View: 11, DB: 4) | 200 OK [http://psa.octagonoecommerce.com.br/users/1]
+
+
+Processing ProductsController#index (for 201.24.205.61 at 2009-10-21 20:31:26) [GET]
+  Parameters: {"action"=>"index", "controller"=>"products"}
+Rendering template within layouts/application
+Rendering products/index
+[paperclip] Paperclip attachment attachment on Image initialized.
+Completed in 304ms (View: 28, DB: 7) | 200 OK [http://psa.octagonoecommerce.com.br/]
+
+
+Processing ProductsController#show (for 201.24.205.61 at 2009-10-21 20:31:31) [GET]
+  Parameters: {"action"=>"show", "id"=>"apache-baseball-jersey", "controller"=>"products"}
+Rendering template within layouts/application
+Rendering products/show
+[paperclip] Paperclip attachment attachment on Image initialized.
+Completed in 70ms (View: 54, DB: 10) | 200 OK [http://psa.octagonoecommerce.com.br/products/apache-baseball-jersey]
+
+
+Processing OrdersController#create (for 201.24.205.61 at 2009-10-21 20:31:34) [POST]
+  Parameters: {"action"=>"create", "authenticity_token"=>"V7oBvCx0fAXOeA/JH5MsfSt9FBqpA3p3iY6xrzOUk5I=", "quantity"=>"1", "products"=>{"109241137"=>"980615690"}, "controller"=>"orders"}
+Redirected to http://psa.octagonoecommerce.com.br/orders/R236173534/edit
+Completed in 268ms (DB: 9) | 302 Found [http://psa.octagonoecommerce.com.br/orders]
+
+
+Processing OrdersController#edit (for 201.24.205.61 at 2009-10-21 20:31:35) [GET]
+  Parameters: {"action"=>"edit", "id"=>"R236173534", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/edit
+[paperclip] Paperclip attachment attachment on Image initialized.
+Completed in 52ms (View: 39, DB: 5) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R236173534/edit]
+
+
+Processing OrdersController#checkout (for 201.24.205.61 at 2009-10-21 20:31:56) [GET]
+  Parameters: {"action"=>"checkout", "id"=>"R236173534", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/checkout
+Completed in 98ms (View: 47, DB: 10) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R236173534/checkout]
+
+
+Processing StatesController#index to js (for 201.24.205.61 at 2009-10-21 20:31:57) [GET]
+  Parameters: {"format"=>"js", "action"=>"index", "controller"=>"states"}
+Rendering states/index
+Completed in 345ms (View: 3, DB: 30) | 200 OK [http://psa.octagonoecommerce.com.br/states.js]
+
+
+Processing OrdersController#checkout (for 201.24.205.61 at 2009-10-21 20:33:01) [POST]
+  Parameters: {"user"=>{"password_confirmation"=>"[FILTERED]", "password"=>"[FILTERED]", "email"=>""}, "choose_registration"=>"guest", "user_session"=>{"password"=>"[FILTERED]", "login"=>""}, "order"=>{"bill_address_attributes"=>{"address1"=>"lakdj", "city"=>"ajdkj", "address2"=>"lkjasdlkj", "state_name"=>"adasd", "zipcode"=>"ada", "country_id"=>"4", "firstname"=>"lkasdjk", "lastname"=>"ljlaksdj", "phone"=>"lkjasd"}, "ship_address_attributes"=>{"address1"=>"lakdj", "city"=>"ajdkj", "address2"=>"lkjasdlkj", "zipcode"=>"ada", "country_id"=>"28", "firstname"=>"lkasdjk", "lastname"=>"ljlaksdj", "phone"=>"lkjasd", "state_id"=>"1061493590"}, "email"=>"asldakj@alkdjas.com"}, "action"=>"checkout", "authenticity_token"=>"V7oBvCx0fAXOeA/JH5MsfSt9FBqpA3p3iY6xrzOUk5I=", "id"=>"R236173534", "controller"=>"orders", "final_answer"=>"", "checkout_same_address"=>"on"}
+Completed in 102ms (View: 0, DB: 12) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R236173534/checkout]
+
+
+Processing OrdersController#checkout (for 201.24.205.61 at 2009-10-21 20:33:07) [POST]
+  Parameters: {"user"=>{"password_confirmation"=>"[FILTERED]", "password"=>"[FILTERED]", "email"=>""}, "choose_registration"=>"guest", "user_session"=>{"password"=>"[FILTERED]", "login"=>""}, "order"=>{"bill_address_attributes"=>{"address1"=>"lakdj", "city"=>"ajdkj", "address2"=>"lkjasdlkj", "state_name"=>"adasd", "zipcode"=>"ada", "country_id"=>"4", "firstname"=>"lkasdjk", "lastname"=>"ljlaksdj", "phone"=>"lkjasd"}, "ship_address_attributes"=>{"address1"=>"lakdj", "city"=>"ajdkj", "address2"=>"lkjasdlkj", "zipcode"=>"ada", "country_id"=>"28", "firstname"=>"lkasdjk", "lastname"=>"ljlaksdj", "phone"=>"lkjasd", "state_id"=>"1061493590"}, "email"=>"asldakj@alkdjas.com"}, "action"=>"checkout", "authenticity_token"=>"V7oBvCx0fAXOeA/JH5MsfSt9FBqpA3p3iY6xrzOUk5I=", "id"=>"R236173534", "controller"=>"orders", "final_answer"=>"", "checkout_same_address"=>"on"}
+Completed in 336ms (View: 0, DB: 29) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R236173534/checkout]
+
+
+Processing OrdersController#checkout (for 201.24.205.61 at 2009-10-21 20:33:15) [POST]
+  Parameters: {"user"=>{"password_confirmation"=>"[FILTERED]", "password"=>"[FILTERED]", "email"=>""}, "choose_registration"=>"guest", "user_session"=>{"password"=>"[FILTERED]", "login"=>""}, "order"=>{"payment_type_id"=>"4", "bill_address_attributes"=>{"address1"=>"lakdj", "city"=>"ajdkj", "address2"=>"lkjasdlkj", "state_name"=>"adasd", "zipcode"=>"ada", "country_id"=>"4", "firstname"=>"lkasdjk", "lastname"=>"ljlaksdj", "phone"=>"lkjasd"}, "ship_address_attributes"=>{"address1"=>"lakdj", "city"=>"ajdkj", "address2"=>"lkjasdlkj", "zipcode"=>"ada", "country_id"=>"28", "firstname"=>"lkasdjk", "lastname"=>"ljlaksdj", "phone"=>"lkjasd", "state_id"=>"1061493590"}, "email"=>"asldakj@alkdjas.com"}, "action"=>"checkout", "authenticity_token"=>"V7oBvCx0fAXOeA/JH5MsfSt9FBqpA3p3iY6xrzOUk5I=", "id"=>"R236173534", "controller"=>"orders", "final_answer"=>"yes", "checkout_same_address"=>"on"}
+Redirected to http://psa.octagonoecommerce.com.br/orders/R236173534?checkout_complete=true&order_token=dHCIWC56brzJgMfIjIy9
+Completed in 361ms (DB: 21) | 302 Found [http://psa.octagonoecommerce.com.br/orders/R236173534/checkout]
+
+
+Processing OrdersController#show (for 201.24.205.61 at 2009-10-21 20:33:15) [GET]
+  Parameters: {"checkout_complete"=>"true", "action"=>"show", "id"=>"R236173534", "controller"=>"orders", "order_token"=>"dHCIWC56brzJgMfIjIy9"}
+Rendering template within layouts/application
+Rendering orders/show
+Completed in 44ms (View: 30, DB: 5) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R236173534?checkout_complete=true&order_token=dHCIWC56brzJgMfIjIy9]
+
+
+Processing BoletoController#bb (for 201.24.205.61 at 2009-10-21 20:33:26) [GET]
+  Parameters: {"action"=>"bb", "controller"=>"boleto", "boletoNumero"=>"R236173534", "valorBoleto"=>"79.96"}
+
+NoMethodError (undefined method `to_currency' for "79.96":String):
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:122:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:26:in `bb'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+
+
+Processing OrdersController#show (for 201.24.205.61 at 2009-10-21 20:33:40) [GET]
+  Parameters: {"checkout_complete"=>"true", "action"=>"show", "id"=>"R236173534", "controller"=>"orders", "order_token"=>"dHCIWC56brzJgMfIjIy9"}
+Rendering template within layouts/application
+Rendering orders/show
+Completed in 255ms (View: 29, DB: 4) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R236173534?checkout_complete=true&order_token=dHCIWC56brzJgMfIjIy9]
+
+
+Processing ProductsController#index (for 201.24.205.61 at 2009-10-21 20:34:18) [GET]
+  Parameters: {"action"=>"index", "controller"=>"products"}
+Rendering template within layouts/application
+Rendering products/index
+[paperclip] Paperclip attachment attachment on Image initialized.
+Completed in 30ms (View: 16, DB: 5) | 200 OK [http://psa.octagonoecommerce.com.br/]
+
+
+Processing ProductsController#show (for 201.24.205.61 at 2009-10-21 20:34:20) [GET]
+  Parameters: {"action"=>"show", "id"=>"apache-baseball-jersey", "controller"=>"products"}
+Rendering template within layouts/application
+Rendering products/show
+[paperclip] Paperclip attachment attachment on Image initialized.
+Completed in 63ms (View: 48, DB: 9) | 200 OK [http://psa.octagonoecommerce.com.br/products/apache-baseball-jersey]
+
+
+Processing OrdersController#create (for 201.24.205.61 at 2009-10-21 20:34:27) [POST]
+  Parameters: {"action"=>"create", "authenticity_token"=>"V7oBvCx0fAXOeA/JH5MsfSt9FBqpA3p3iY6xrzOUk5I=", "quantity"=>"1", "products"=>{"109241137"=>"980615690"}, "controller"=>"orders"}
+Redirected to http://psa.octagonoecommerce.com.br/orders/R374365057/edit
+Completed in 272ms (DB: 10) | 302 Found [http://psa.octagonoecommerce.com.br/orders]
+
+
+Processing OrdersController#edit (for 201.24.205.61 at 2009-10-21 20:34:27) [GET]
+  Parameters: {"action"=>"edit", "id"=>"R374365057", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/edit
+[paperclip] Paperclip attachment attachment on Image initialized.
+Completed in 52ms (View: 37, DB: 6) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R374365057/edit]
+
+
+Processing OrdersController#checkout (for 201.24.205.61 at 2009-10-21 20:34:30) [GET]
+  Parameters: {"action"=>"checkout", "id"=>"R374365057", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/checkout
+Completed in 96ms (View: 47, DB: 7) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R374365057/checkout]
+
+
+Processing StatesController#index to js (for 201.24.205.61 at 2009-10-21 20:34:31) [GET]
+  Parameters: {"format"=>"js", "action"=>"index", "controller"=>"states"}
+Rendering states/index
+Completed in 350ms (View: 3, DB: 19) | 200 OK [http://psa.octagonoecommerce.com.br/states.js]
+
+
+Processing BoletoController#bb (for 189.32.63.139 at 2009-10-21 20:34:41) [GET]
+  Parameters: {"action"=>"bb", "controller"=>"boleto", "boletoNumero"=>"R236173534", "valorBoleto"=>"79.96"}
+
+NoMethodError (undefined method `to_currency' for "79.96":String):
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:122:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:26:in `bb'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+
+
+Processing OrdersController#checkout (for 201.24.205.61 at 2009-10-21 20:35:18) [POST]
+  Parameters: {"user"=>{"password_confirmation"=>"[FILTERED]", "password"=>"[FILTERED]", "email"=>""}, "choose_registration"=>"guest", "user_session"=>{"password"=>"[FILTERED]", "login"=>""}, "order"=>{"bill_address_attributes"=>{"address1"=>";laksd;l", "city"=>"l;k;asd;la", "address2"=>";lkasl;dakd", "zipcode"=>";lksd", "country_id"=>"28", "firstname"=>"al;dkasj", "lastname"=>"asd;las", "phone"=>";lkad", "state_id"=>"1061493589"}, "ship_address_attributes"=>{"address1"=>";laksd;l", "city"=>"l;k;asd;la", "address2"=>";lkasl;dakd", "zipcode"=>";lksd", "country_id"=>"28", "firstname"=>"al;dkasj", "lastname"=>"asd;las", "phone"=>";lkad", "state_id"=>"1061493589"}, "email"=>"asdlasdkj@Lkajdla.com"}, "action"=>"checkout", "authenticity_token"=>"V7oBvCx0fAXOeA/JH5MsfSt9FBqpA3p3iY6xrzOUk5I=", "id"=>"R374365057", "controller"=>"orders", "final_answer"=>"", "checkout_same_address"=>"on"}
+Completed in 108ms (View: 0, DB: 16) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R374365057/checkout]
+
+
+Processing OrdersController#checkout (for 201.24.205.61 at 2009-10-21 20:35:34) [POST]
+  Parameters: {"user"=>{"password_confirmation"=>"[FILTERED]", "password"=>"[FILTERED]", "email"=>""}, "choose_registration"=>"guest", "user_session"=>{"password"=>"[FILTERED]", "login"=>""}, "order"=>{"payment_type_id"=>"4", "bill_address_attributes"=>{"address1"=>";laksd;l", "city"=>"l;k;asd;la", "address2"=>";lkasl;dakd", "zipcode"=>";lksd", "country_id"=>"28", "firstname"=>"al;dkasj", "lastname"=>"asd;las", "phone"=>";lkad", "state_id"=>"1061493589"}, "ship_address_attributes"=>{"address1"=>";laksd;l", "city"=>"l;k;asd;la", "address2"=>";lkasl;dakd", "zipcode"=>";lksd", "country_id"=>"28", "firstname"=>"al;dkasj", "lastname"=>"asd;las", "phone"=>";lkad", "state_id"=>"1061493589"}, "email"=>"asdlasdkj@Lkajdla.com"}, "action"=>"checkout", "authenticity_token"=>"V7oBvCx0fAXOeA/JH5MsfSt9FBqpA3p3iY6xrzOUk5I=", "id"=>"R374365057", "controller"=>"orders", "final_answer"=>"yes", "checkout_same_address"=>"on"}
+Redirected to http://psa.octagonoecommerce.com.br/orders/R374365057?checkout_complete=true&order_token=UUBaPHJ05Agap_NQ-_07
+Completed in 368ms (DB: 33) | 302 Found [http://psa.octagonoecommerce.com.br/orders/R374365057/checkout]
+
+
+Processing OrdersController#show (for 201.24.205.61 at 2009-10-21 20:35:34) [GET]
+  Parameters: {"checkout_complete"=>"true", "action"=>"show", "id"=>"R374365057", "controller"=>"orders", "order_token"=>"UUBaPHJ05Agap_NQ-_07"}
+Rendering template within layouts/application
+Rendering orders/show
+Completed in 253ms (View: 241, DB: 5) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R374365057?checkout_complete=true&order_token=UUBaPHJ05Agap_NQ-_07]
+
+
+Processing BoletoController#bb (for 189.32.63.139 at 2009-10-21 20:36:49) [GET]
+  Parameters: {"action"=>"bb", "controller"=>"boleto", "boletoNumero"=>"R236173534", "valorBoleto"=>"79.96"}
+
+NoMethodError (undefined method `to_currency' for "79.96":String):
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:122:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:26:in `bb'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing BoletoController#bb (for 189.32.63.139 at 2009-10-21 20:37:33) [GET]
+  Parameters: {"action"=>"bb", "controller"=>"boleto", "boletoNumero"=>"R236173534", "valorBoleto"=>"79.96"}
+
+NoMethodError (private method `readlines' called for nil:NilClass):
+  rghost (0.8.7.2) lib/rghost/document.rb:258:in `render_stream'
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:148:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:26:in `bb'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+
+
+Processing ProductsController#index (for 189.32.63.139 at 2009-10-21 20:38:10) [GET]
+  Parameters: {"action"=>"index", "controller"=>"products"}
+Rendering template within layouts/application
+Rendering products/index
+[paperclip] Paperclip attachment attachment on Image initialized.
+Completed in 456ms (View: 255, DB: 42) | 200 OK [http://psa.octagonoecommerce.com.br/]
+
+
+Processing UsersController#show (for 189.32.63.139 at 2009-10-21 20:38:15) [GET]
+  Parameters: {"action"=>"show", "id"=>"1", "controller"=>"users"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 36ms (View: 12, DB: 5) | 200 OK [http://psa.octagonoecommerce.com.br/users/1]
+
+
+Processing UsersController#show (for 189.32.63.139 at 2009-10-21 20:38:18) [GET]
+  Parameters: {"action"=>"show", "id"=>"1", "controller"=>"users"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 25ms (View: 9, DB: 4) | 200 OK [http://psa.octagonoecommerce.com.br/users/1]
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing ProductsController#show (for 189.32.63.139 at 2009-10-21 20:39:47) [GET]
+  Parameters: {"action"=>"show", "id"=>"apache-baseball-jersey", "controller"=>"products"}
+Rendering template within layouts/application
+Rendering products/show
+[paperclip] Paperclip attachment attachment on Image initialized.
+Completed in 696ms (View: 595, DB: 55) | 200 OK [http://psa.octagonoecommerce.com.br/products/apache-baseball-jersey]
+
+
+Processing OrdersController#create (for 189.32.63.139 at 2009-10-21 20:39:52) [POST]
+  Parameters: {"action"=>"create", "authenticity_token"=>"brByl95/X+OuvJy6i/Z229HBP4MogiBLrsNTyyQgym0=", "quantity"=>"1", "products"=>{"109241137"=>"980615690"}, "controller"=>"orders"}
+Redirected to http://psa.octagonoecommerce.com.br/orders/R062641476/edit
+Completed in 366ms (DB: 11) | 302 Found [http://psa.octagonoecommerce.com.br/orders]
+
+
+Processing OrdersController#edit (for 189.32.63.139 at 2009-10-21 20:39:52) [GET]
+  Parameters: {"action"=>"edit", "id"=>"R062641476", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/edit
+[paperclip] Paperclip attachment attachment on Image initialized.
+Completed in 61ms (View: 41, DB: 7) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R062641476/edit]
+
+
+Processing OrdersController#checkout (for 189.32.63.139 at 2009-10-21 20:39:57) [GET]
+  Parameters: {"action"=>"checkout", "id"=>"R062641476", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/checkout
+Completed in 399ms (View: 74, DB: 21) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R062641476/checkout]
+
+
+Processing StatesController#index to js (for 189.32.63.139 at 2009-10-21 20:40:00) [GET]
+  Parameters: {"format"=>"js", "action"=>"index", "controller"=>"states"}
+Rendering states/index
+Completed in 132ms (View: 4, DB: 17) | 200 OK [http://psa.octagonoecommerce.com.br/states.js]
+
+
+Processing OrdersController#checkout (for 189.32.63.139 at 2009-10-21 20:40:36) [POST]
+  Parameters: {"order"=>{"bill_address_attributes"=>{"address1"=>"paraiba", "city"=>"curitiba", "address2"=>"", "zipcode"=>"80630000", "country_id"=>"28", "firstname"=>"Alberto", "lastname"=>"Braschi", "phone"=>"41 847841024", "state_id"=>"1061493600"}, "ship_address_attributes"=>{"address1"=>"paraiba", "city"=>"curitiba", "address2"=>"", "zipcode"=>"80630000", "country_id"=>"28", "firstname"=>"Alberto", "lastname"=>"Braschi", "phone"=>"41 847841024", "state_id"=>"1061493600"}}, "action"=>"checkout", "authenticity_token"=>"brByl95/X+OuvJy6i/Z229HBP4MogiBLrsNTyyQgym0=", "id"=>"R062641476", "controller"=>"orders", "final_answer"=>"", "checkout_same_address"=>"on"}
+Completed in 355ms (View: 0, DB: 15) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R062641476/checkout]
+
+
+Processing OrdersController#checkout (for 189.32.63.139 at 2009-10-21 20:40:41) [POST]
+  Parameters: {"order"=>{"payment_type_id"=>"3", "bill_address_attributes"=>{"address1"=>"paraiba", "city"=>"curitiba", "address2"=>"", "zipcode"=>"80630000", "country_id"=>"28", "firstname"=>"Alberto", "lastname"=>"Braschi", "phone"=>"41 847841024", "state_id"=>"1061493600"}, "ship_address_attributes"=>{"address1"=>"paraiba", "city"=>"curitiba", "address2"=>"", "zipcode"=>"80630000", "country_id"=>"28", "firstname"=>"Alberto", "lastname"=>"Braschi", "phone"=>"41 847841024", "state_id"=>"1061493600"}}, "action"=>"checkout", "authenticity_token"=>"brByl95/X+OuvJy6i/Z229HBP4MogiBLrsNTyyQgym0=", "id"=>"R062641476", "controller"=>"orders", "final_answer"=>"yes", "checkout_same_address"=>"on"}
+Sent mail to spree@example.com
+Redirected to http://psa.octagonoecommerce.com.br/orders/R062641476?checkout_complete=true
+Completed in 456ms (DB: 25) | 302 Found [http://psa.octagonoecommerce.com.br/orders/R062641476/checkout]
+
+
+Processing OrdersController#show (for 189.32.63.139 at 2009-10-21 20:40:42) [GET]
+  Parameters: {"checkout_complete"=>"true", "action"=>"show", "id"=>"R062641476", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/show
+Completed in 51ms (View: 32, DB: 6) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R062641476?checkout_complete=true]
+
+
+Processing BoletoController#hsbc (for 189.32.63.139 at 2009-10-21 20:40:46) [GET]
+  Parameters: {"action"=>"hsbc", "controller"=>"boleto", "boletoNumero"=>"R062641476", "valorBoleto"=>"39.98"}
+
+NoMethodError (private method `readlines' called for nil:NilClass):
+  rghost (0.8.7.2) lib/rghost/document.rb:258:in `render_stream'
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:148:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:50:in `hsbc'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing BoletoController#hsbc (for 189.32.63.139 at 2009-10-21 20:42:17) [GET]
+  Parameters: {"action"=>"hsbc", "controller"=>"boleto", "boletoNumero"=>"R062641476", "valorBoleto"=>"39.98"}
+
+NoMethodError (private method `readlines' called for nil:NilClass):
+  rghost (0.8.7.2) lib/rghost/document.rb:258:in `render_stream'
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:148:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:51:in `hsbc'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing UsersController#show (for 189.32.63.139 at 2009-10-21 20:42:17) [GET]
+  Parameters: {"action"=>"show", "id"=>"1", "controller"=>"users"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 477ms (View: 318, DB: 10) | 200 OK [http://psa.octagonoecommerce.com.br/users/1]
+
+
+Processing OrdersController#show (for 189.32.63.139 at 2009-10-21 20:42:25) [GET]
+  Parameters: {"action"=>"show", "id"=>"R062641476", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/show
+Completed in 538ms (View: 288, DB: 228) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R062641476]
+
+
+Processing BoletoController#hsbc (for 189.32.63.139 at 2009-10-21 20:42:29) [GET]
+  Parameters: {"action"=>"hsbc", "controller"=>"boleto", "boletoNumero"=>"R062641476", "valorBoleto"=>"39.98"}
+
+NoMethodError (private method `readlines' called for nil:NilClass):
+  rghost (0.8.7.2) lib/rghost/document.rb:258:in `render_stream'
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:148:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:51:in `hsbc'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing BoletoController#hsbc (for 189.32.63.139 at 2009-10-21 20:44:11) [GET]
+  Parameters: {"action"=>"hsbc", "controller"=>"boleto", "boletoNumero"=>"R062641476", "valorBoleto"=>"39.98"}
+
+NoMethodError (private method `readlines' called for nil:NilClass):
+  rghost (0.8.7.2) lib/rghost/document.rb:258:in `render_stream'
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:148:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:51:in `hsbc'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+
+
+Processing BoletoController#hsbc (for 189.32.63.139 at 2009-10-21 20:44:22) [GET]
+  Parameters: {"action"=>"hsbc", "controller"=>"boleto", "boletoNumero"=>"R062641476", "valorBoleto"=>"39.98"}
+
+NoMethodError (private method `readlines' called for nil:NilClass):
+  rghost (0.8.7.2) lib/rghost/document.rb:258:in `render_stream'
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:148:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:51:in `hsbc'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing BoletoController#bb (for 189.32.63.139 at 2009-10-21 20:56:54) [GET]
+  Parameters: {"action"=>"bb", "controller"=>"boleto", "boletoNumero"=>"R062641476", "valorBoleto"=>"39.98"}
+
+NoMethodError (private method `readlines' called for nil:NilClass):
+  rghost (0.8.7.2) lib/rghost/document.rb:258:in `render_stream'
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:148:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:26:in `bb'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing BoletoController#bb (for 189.32.63.139 at 2009-10-21 21:01:16) [GET]
+  Parameters: {"action"=>"bb", "controller"=>"boleto", "boletoNumero"=>"R062641476", "valorBoleto"=>"39.98"}
+
+NoMethodError (private method `readlines' called for nil:NilClass):
+  rghost (0.8.7.2) lib/rghost/document.rb:258:in `render_stream'
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:148:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:26:in `bb'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing OrdersController#show (for 189.32.63.139 at 2009-10-21 21:04:10) [GET]
+  Parameters: {"action"=>"show", "id"=>"R062641476", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/show
+Completed in 464ms (View: 294, DB: 19) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R062641476]
+
+
+Processing BoletoController#hsbc (for 189.32.63.139 at 2009-10-21 21:04:14) [GET]
+  Parameters: {"action"=>"hsbc", "controller"=>"boleto", "boletoNumero"=>"R062641476", "valorBoleto"=>"39.98"}
+
+NoMethodError (private method `readlines' called for nil:NilClass):
+  rghost (0.8.7.2) lib/rghost/document.rb:258:in `render_stream'
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:148:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:51:in `hsbc'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing BoletoController#bb (for 189.32.63.139 at 2009-10-21 21:06:04) [GET]
+  Parameters: {"action"=>"bb", "controller"=>"boleto", "boletoNumero"=>"R062641476", "valorBoleto"=>"39.98"}
+
+NoMethodError (undefined method `to_sym' for nil:NilClass):
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:147:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:26:in `bb'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing BoletoController#bb (for 189.32.63.139 at 2009-10-21 21:07:28) [GET]
+  Parameters: {"action"=>"bb", "controller"=>"boleto", "boletoNumero"=>"R062641476", "valorBoleto"=>"39.98"}
+
+NoMethodError (private method `readlines' called for nil:NilClass):
+  rghost (0.8.7.2) lib/rghost/document.rb:258:in `render_stream'
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:148:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:26:in `bb'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing BoletoController#bb (for 189.32.63.139 at 2009-10-21 21:12:30) [GET]
+  Parameters: {"action"=>"bb", "controller"=>"boleto", "boletoNumero"=>"R062641476", "valorBoleto"=>"39.98"}
+
+NoMethodError (private method `readlines' called for nil:NilClass):
+  rghost (0.8.7.2) lib/rghost/document.rb:258:in `render_stream'
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:148:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:20:in `bb'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing BoletoController#hsbc (for 189.32.63.139 at 2009-10-21 21:12:30) [GET]
+  Parameters: {"action"=>"hsbc", "controller"=>"boleto", "boletoNumero"=>"R062641476", "valorBoleto"=>"39.98"}
+
+NoMethodError (private method `readlines' called for nil:NilClass):
+  rghost (0.8.7.2) lib/rghost/document.rb:258:in `render_stream'
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:148:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:39:in `hsbc'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+
+
+Processing BoletoController#bb (for 189.32.63.139 at 2009-10-21 21:23:53) [GET]
+  Parameters: {"action"=>"bb", "controller"=>"boleto", "boletoNumero"=>"R062641476", "valorBoleto"=>"39.98"}
+
+NoMethodError (private method `readlines' called for nil:NilClass):
+  rghost (0.8.7.2) lib/rghost/document.rb:258:in `render_stream'
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:148:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:20:in `bb'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+
+
+Processing ProductsController#index (for 189.32.63.139 at 2009-10-21 21:40:18) [GET]
+  Parameters: {"action"=>"index", "controller"=>"products"}
+Rendering template within layouts/application
+Rendering products/index
+[paperclip] Paperclip attachment attachment on Image initialized.
+Completed in 425ms (View: 62, DB: 11) | 200 OK [http://psa.octagonoecommerce.com.br/]
+
+
+Processing UsersController#show (for 189.32.63.139 at 2009-10-21 21:40:24) [GET]
+  Parameters: {"action"=>"show", "id"=>"1", "controller"=>"users"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 339ms (View: 313, DB: 5) | 200 OK [http://psa.octagonoecommerce.com.br/users/1]
+
+
+Processing OrdersController#show (for 189.32.63.139 at 2009-10-21 21:40:27) [GET]
+  Parameters: {"action"=>"show", "id"=>"R062641476", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/show
+Completed in 308ms (View: 280, DB: 9) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R062641476]
+
+
+Processing OrdersController#show (for 189.32.63.139 at 2009-10-21 21:41:04) [GET]
+  Parameters: {"action"=>"show", "id"=>"R062641476", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/show
+Completed in 44ms (View: 27, DB: 5) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R062641476]
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing OrdersController#show (for 189.32.63.139 at 2009-10-21 21:41:24) [GET]
+  Parameters: {"action"=>"show", "id"=>"R062641476", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/show
+Completed in 670ms (View: 287, DB: 18) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R062641476]
+
+
+Processing OrdersController#show (for 189.32.63.139 at 2009-10-21 21:41:26) [GET]
+  Parameters: {"action"=>"show", "id"=>"R062641476", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/show
+Completed in 44ms (View: 24, DB: 5) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R062641476]
+
+
+Processing BoletoController#hsbc (for 189.32.63.139 at 2009-10-21 21:41:31) [GET]
+  Parameters: {"action"=>"hsbc", "controller"=>"boleto", "boletoNumero"=>"R062641476"}
+
+NoMethodError (private method `readlines' called for nil:NilClass):
+  rghost (0.8.7.2) lib/rghost/document.rb:258:in `render_stream'
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:148:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:39:in `hsbc'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+
+
+Processing BoletoController#hsbc (for 189.32.63.139 at 2009-10-21 21:44:52) [GET]
+  Parameters: {"action"=>"hsbc", "controller"=>"boleto", "boletoNumero"=>"R062641476"}
+
+NoMethodError (private method `readlines' called for nil:NilClass):
+  rghost (0.8.7.2) lib/rghost/document.rb:258:in `render_stream'
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:148:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:39:in `hsbc'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+
+
+Processing OrdersController#show (for 201.25.36.8 at 2009-10-21 21:46:32) [GET]
+  Parameters: {"action"=>"show", "id"=>"R062641476", "controller"=>"orders"}
+Redirected to http://psa.octagonoecommerce.com.br/login
+Filter chain halted as [:check_roles] rendered_or_redirected.
+Completed in 10ms (DB: 1) | 302 Found [http://psa.octagonoecommerce.com.br/orders/R062641476]
+
+
+Processing UserSessionsController#new (for 201.25.36.8 at 2009-10-21 21:46:32) [GET]
+  Parameters: {"action"=>"new", "controller"=>"user_sessions"}
+Rendering template within layouts/application
+Rendering user_sessions/new
+Completed in 26ms (View: 13, DB: 2) | 200 OK [http://psa.octagonoecommerce.com.br/login]
+
+
+Processing UserSessionsController#create (for 201.25.36.8 at 2009-10-21 21:47:11) [POST]
+  Parameters: {"commit"=>"Entre", "user_session"=>{"password"=>"[FILTERED]", "login"=>"spree@example.com", "remember_me"=>"0"}, "action"=>"create", "authenticity_token"=>"sDgM5nwNv7ZGDREvaDAllBN4AwtrpH+gAk6RuhybBWY=", "controller"=>"user_sessions"}
+Redirected to http://psa.octagonoecommerce.com.br/orders/R062641476
+Completed in 20ms (DB: 3) | 302 Found [http://psa.octagonoecommerce.com.br/user_session]
+
+
+Processing OrdersController#show (for 201.25.36.8 at 2009-10-21 21:47:11) [GET]
+  Parameters: {"action"=>"show", "id"=>"R062641476", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/show
+Completed in 49ms (View: 25, DB: 6) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R062641476]
+
+
+Processing BoletoController#hsbc (for 201.25.36.8 at 2009-10-21 21:47:47) [GET]
+  Parameters: {"action"=>"hsbc", "controller"=>"boleto", "boletoNumero"=>"R062641476"}
+
+NoMethodError (private method `readlines' called for nil:NilClass):
+  rghost (0.8.7.2) lib/rghost/document.rb:258:in `render_stream'
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:148:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:39:in `hsbc'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing BoletoController#hsbc (for 189.32.63.139 at 2009-10-21 21:52:09) [GET]
+  Parameters: {"action"=>"hsbc", "controller"=>"boleto", "boletoNumero"=>"R062641476"}
+
+NoMethodError (private method `readlines' called for nil:NilClass):
+  rghost (0.8.7.2) lib/rghost/document.rb:258:in `render_stream'
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:148:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:39:in `hsbc'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+
+
+Processing OrdersController#show (for 189.32.63.139 at 2009-10-21 21:52:12) [GET]
+  Parameters: {"action"=>"show", "id"=>"R062641476", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/show
+Completed in 617ms (View: 279, DB: 20) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R062641476]
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing BoletoController#hsbc (for 189.32.63.139 at 2009-10-21 21:53:11) [GET]
+  Parameters: {"action"=>"hsbc", "controller"=>"boleto", "boletoNumero"=>"R062641476"}
+
+NoMethodError (private method `readlines' called for nil:NilClass):
+  rghost (0.8.7.2) lib/rghost/document.rb:258:in `render_stream'
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:148:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:39:in `hsbc'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing OrdersController#show (for 189.32.63.139 at 2009-10-21 21:53:11) [GET]
+  Parameters: {"action"=>"show", "id"=>"R062641476", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/show
+Completed in 478ms (View: 297, DB: 21) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R062641476]
+
+
+Processing OrdersController#show (for 189.32.63.139 at 2009-10-21 21:53:15) [GET]
+  Parameters: {"action"=>"show", "id"=>"R062641476", "controller"=>"orders"}
+Rendering template within layouts/application
+Rendering orders/show
+Completed in 706ms (View: 287, DB: 71) | 200 OK [http://psa.octagonoecommerce.com.br/orders/R062641476]
+
+
+Processing BoletoController#hsbc (for 189.32.63.139 at 2009-10-21 21:53:17) [GET]
+  Parameters: {"action"=>"hsbc", "controller"=>"boleto", "boletoNumero"=>"R062641476"}
+
+NoMethodError (private method `readlines' called for nil:NilClass):
+  rghost (0.8.7.2) lib/rghost/document.rb:258:in `render_stream'
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:148:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:39:in `hsbc'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+INFO: Mirroring assets from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/public to /home2/rs28066/psa/public
+INFO: Mirroring assets from /home2/rs28066/psa/vendor/extensions/site/public to /home2/rs28066/psa/public
+INFO: Loading mail preferences
+NOTICE: Mail not enabled
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/localization/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/spree-0.8.1/vendor/extensions/tax_calculator/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/correios_bounded_store/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/site/config/routes.rb
+INFO: Loading routes from /home2/rs28066/psa/vendor/extensions/tax_calculator/config/routes.rb
+
+
+Processing BoletoController#hsbc (for 189.32.63.139 at 2009-10-21 21:55:04) [GET]
+  Parameters: {"action"=>"hsbc", "controller"=>"boleto", "boletoNumero"=>"R062641476"}
+
+NoMethodError (private method `readlines' called for nil:NilClass):
+  rghost (0.8.7.2) lib/rghost/document.rb:258:in `render_stream'
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:148:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:38:in `hsbc'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)
+
+
+Processing BoletoController#hsbc (for 189.32.63.139 at 2009-10-21 21:55:09) [GET]
+  Parameters: {"action"=>"hsbc", "controller"=>"boleto", "boletoNumero"=>"R062641476"}
+
+NoMethodError (private method `readlines' called for nil:NilClass):
+  rghost (0.8.7.2) lib/rghost/document.rb:258:in `render_stream'
+  brcobranca (2.0.6) lib/brcobranca/boleto/template/rghost.rb:148:in `modelo_generico'
+  vendor/extensions/site/app/controllers/boleto_controller.rb:38:in `hsbc'
+  /opt/ruby-enterprise-1.8.6-20080709/lib/ruby/gems/1.8/gems/haml-edge-2.3.43/lib/sass/plugin/rails.rb:19:in `process'
+
+Rendering /home2/rs28066/psa/public/500.html (500 Internal Server Error)

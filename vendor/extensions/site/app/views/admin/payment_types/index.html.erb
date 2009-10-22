@@ -1,0 +1,33 @@
+<div class='toolbar'>
+  <ul class='actions'>
+    <li>
+      <%= button_link_to t("new_payment_type"), new_object_url, :icon => 'add'  %>
+    </li>
+  </ul>
+  <br class='clear' />
+</div>
+
+<h1>Formas de pagamento</h1>
+
+<table class="index">
+  <thead>
+    <tr>
+      <th><%= t("status") %></th>
+      <th><%= t("nome") %></th>
+    <th><%= t("action") %></th>
+    </tr>
+  </thead>
+  <tbody>
+  <% @payment_type.each do |payment| %>
+    <tr>
+      <td><%= status_icon(payment.status) %></td>
+      <td><%= payment.nome %></td>
+      <td>
+      	<%= link_to_edit payment %> &nbsp;
+      	<%= link_to_delete payment %>
+      </td>
+    </tr>
+  <% end %>
+  </tbody>
+</table>
+

@@ -1,0 +1,31 @@
+
+production:
+  adapter: mysql
+  host: localhost
+  encoding: utf8
+  reconnect: false
+  database: adriana
+  pool: 5
+  username: root
+  password: 1234
+
+staging:
+  adapter: mysql
+  host: localhost
+  encoding: utf8
+  reconnect: false
+  database: adriana
+  pool: 5
+  username: root
+  password: 1234
+
+development:
+  adapter: mysql
+  host: localhost
+  encoding: utf8
+  reconnect: false
+  database: adriana
+  pool: 5
+  username: root
+  password: 1234
+
